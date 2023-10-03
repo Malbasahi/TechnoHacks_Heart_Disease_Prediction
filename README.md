@@ -2,6 +2,9 @@
 # Loading the dataset
 
 ``` python
+pip install ucimlrepo
+```
+``` python
 from ucimlrepo import fetch_ucirepo 
   
 # fetch dataset 
